@@ -5,6 +5,8 @@
 
 *CRSid:* xl402 Pembroke College
 
+*Participating Schools:* Morely Memorial Primary School http://www.morley.cambs.sch.uk/, The Perse School Cambridge https://www.perse.co.uk/
+
 
 ## Project Description
 - Project submitted as part of Cambridge MEng Part IIB Dissertation
