@@ -1,5 +1,7 @@
 # Python-From-Scratch
+*Author:* Xiaoding Lu
 *Supervisor:* Dr Alexandre J Kabla http://kalab.emma.cam.ac.uk/index.php
+*CRSid:* xl402 Pembroke College
 
 
 ## Project Description
