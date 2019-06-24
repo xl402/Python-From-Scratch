@@ -1,6 +1,6 @@
 # Python-From-Scratch
 Part IIB Dissertation Project
-- *Supervisor:* Dr Alexandre J Kabla http://kalab.emma.cam.ac.uk/index.php
+*Supervisor:* Dr Alexandre J Kabla http://kalab.emma.cam.ac.uk/index.php
 
 
 ## Project Description
